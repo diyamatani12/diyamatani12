@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.tenor.com/H6HCYamy-4oAAAAi/season-byme.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Diya, New Learning Web developer 👨‍💻 working since 2022</div>  
   
@@ -62,11 +58,6 @@
 </div>  
 <br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=diyamatani12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/> 
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=diyamatani12&&style=flat-square" align="center" />
